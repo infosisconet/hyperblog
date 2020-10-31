@@ -1,1 +1,2 @@
 estoy probando si git bash ya nombra como main la rama principal
+voy a hacer un cambio para probaar reset head
